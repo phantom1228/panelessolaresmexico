@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://luminarias.com.mx/sitemap.xml
