@@ -1,37 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    <!-- Página principal -->
-    <url>
-        <loc>https://panelessolaresmexico.com.mx/</loc>
-        <lastmod>2025-08-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <!-- Blog principal -->
-    <url>
-        <loc>https://panelessolaresmexico.com.mx/blog/</loc>
-        <lastmod>2025-08-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-    </url>
-
-    <!-- Posts de blog individuales -->
-    <url>
-        <loc>https://panelessolaresmexico.com.mx/blog/optimizar-consumo-electrico/</loc>
-        <lastmod>2025-06-03</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://panelessolaresmexico.com.mx/blog/beneficios-interconexion-cfe/</loc>
-        <lastmod>2025-06-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://panelessolaresmexico.com.mx/</loc>
+    <priority>1.0</priority>
+  </url>
 </urlset>
 
+ 	
 
